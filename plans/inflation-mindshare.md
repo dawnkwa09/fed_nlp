@@ -40,11 +40,11 @@ Establish the data collection pipeline and a single canonical corpus that captur
 
 ### Acceptance criteria
 
-- [ ] A single document corpus includes all relevant Fed document types from 2000 onward.
-- [ ] All speeches are ingested, including records with incomplete metadata.
-- [ ] Each source type contributes equally in the pooled dataset at the document level rather than by volume dominance.
-- [ ] If a speech has no clear author, it is flagged for review and its URL is printed for manual inspection rather than silently excluded.
-- [ ] The document date reflects the publication or release date, and the corpus retains the metadata needed for later aggregation and chair comparison without mixing incompatible schemas.
+- [x] A single document corpus includes all relevant Fed document types from 2000 onward.
+- [x] All speeches are ingested, including records with incomplete metadata.
+- [x] Each source type contributes equally in the pooled dataset at the document level rather than by volume dominance.
+- [x] If a speech has no clear author, it is flagged for review and its URL is printed for manual inspection rather than silently excluded.
+- [x] The document date reflects the publication or release date, and the corpus retains the metadata needed for later aggregation and chair comparison without mixing incompatible schemas.
 
 ---
 
